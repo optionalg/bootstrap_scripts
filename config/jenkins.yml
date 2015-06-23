@@ -1,0 +1,3 @@
+development:
+  server_ip: <YOUR JENKINS SERVER IP OR NAME>
+  username: <YOUR_JENKINS_USERNAME>
